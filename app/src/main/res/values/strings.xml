@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Waqas Cyber Academy</string>
+    <string name="welcome_back_waqas">Welcome back, Waqas.</string>
+    <string name="academy_subtitle">Version 1 • Cybersecurity Academy Test Dashboard</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_tasks">Daily Tasks</string>
+    <string name="nav_timer">Study Timer</string>
+    <string name="nav_summary">Learning Summary</string>
+    <string name="nav_progress">Progress &amp; Settings</string>
+    <string name="reset_demo_data">Reset Demo Data</string>
+    <string name="export_json">Export JSON</string>
+    <string name="import_json">Import JSON</string>
+</resources>

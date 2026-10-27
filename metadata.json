@@ -1,0 +1,8 @@
+{
+  "name": "Waqas Cyber Academy",
+  "description": "Waqas Cyber Academy: Full-stack 26-week (182-day) cybersecurity learning platform with Public Portal, Student Command Center, RBAC Admin Console, PBKDF2 auth, tasks, attendance, timer, quizzes, flashcards, notes, bookmarks, projects, and schema-v2/v3 backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
